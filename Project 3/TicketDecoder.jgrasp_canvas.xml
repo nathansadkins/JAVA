@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Canvas xmlns="http://www.jgrasp.org">
+  <Language>Java</Language>
+  <ShowTypes>false</ShowTypes>
+  <Version>2</Version>
+  <Grid>
+    <Snap>true</Snap>
+    <Show>false</Show>
+  </Grid>
+  <Scope id="0">
+    <Name>main</Name>
+    <Signature>([Ljava/lang/String;)V</Signature>
+    <DeclaringType>TicketDecoder</DeclaringType>
+    <Depth>0</Depth>
+  </Scope>
+  <Frame>
+    <Bounds>
+      <AutoSize>false</AutoSize>
+      <X>320</X>
+      <Y>230</Y>
+      <W>328</W>
+      <H>108</H>
+    </Bounds>
+    <PanelSize>
+      <Key>jgrasp_viewers.java__lang__String_FormattedView0</Key>
+      <Order>4</Order>
+      <W>334</W>
+      <H>147</H>
+    </PanelSize>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local java.lang.String` ticketCode</Expression>
+      <ViewerClass>jgrasp_viewers.java__lang__String_FormattedView</ViewerClass>
+    </Viewer>
+  </Frame>
+  <Size>
+    <W>960</W>
+    <H>540</H>
+  </Size>
+  <ESize>
+    <W>960</W>
+    <H>540</H>
+  </ESize>
+</Canvas>

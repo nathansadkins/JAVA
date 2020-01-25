@@ -1,0 +1,46 @@
+!1513;s
+J
+SAU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SCU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+S+U0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SJU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012File\012CLASSPATH+=.%;\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012ProjectOrFile\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug +Debug_Applet\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012CLASSPATH+=%<CLASSES_DIR>%;\012
+SXU0
+SOU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SyU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning\012GCC_COLORS=
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!214;g
+%\011FiveG.java
+%\011WiFi.java
+%\011MonthlyCostComparator.java
+%\011WirelessNetworksPart2.java
+%\011WirelessNetwork.java
+%\011BandwidthComparator.java
+%\011LTE.java
+%\011WirelessNetworkList.java
+%\011Cellular.java
+!214;f
+%\011FiveG.java
+%\011WiFi.java
+%\011MonthlyCostComparator.java
+%\011WirelessNetworksPart2.java
+%\011WirelessNetwork.java
+%\011BandwidthComparator.java
+%\011LTE.java
+%\011WirelessNetworkList.java
+%\011Cellular.java
+!220;l
+%\011WiFiTest.java
+%\011CellularTest.java
+%\011MonthlyCostComparatorTest.java
+%\011WirelessNetworkListTest.java
+%\011FiveGTest.java
+%\011LTETest.java
+%\011BandwidthComparatorTest.java
+%\011WirelessNetworksPart2Test.java
+!1793;t
+jgrJUnit0xr	%\011FiveG.java	1574449723113:P%\011FiveGTest.java	%\011MonthlyCostComparator.java	1574451592339:P%\011MonthlyCostComparatorTest.java	%\011CellularTest.java	1574449723113:P%\011Cellular.java	%\011WirelessNetworkListTest.java	1574449723113:P%\011WirelessNetworkList.java	%\011WirelessNetworkList.java	1574449723113:P%\011WirelessNetworkListTest.java	%\011FiveGTest.java	1574449723113:P%\011FiveG.java	%\011LTETest.java	1574449723113:P%\011LTE.java	%\011Cellular.java	1574449723113:P%\011CellularTest.java	%\011WirelessNetworksPart2Test.java	1574449723113:P%\011WirelessNetworksPart2.java	%\011WiFiTest.java	1574449723113:P%\011WiFi.java	%\011WiFi.java	1574449723113:P%\011WiFiTest.java	%\011WirelessNetworksPart2.java	1574449723113:P%\011WirelessNetworksPart2Test.java	%\011MonthlyCostComparatorTest.java	1574451592339:P%\011MonthlyCostComparator.java	%\011BandwidthComparator.java	1574449723113:P%\011BandwidthComparatorTest.java	%\011LTE.java	1574449723113:P%\011LTETest.java	%\011BandwidthComparatorTest.java	1574449723113:P%\011BandwidthComparator.java	
+jgrCheckstyle0xr	%\011FiveG.java	1574449730207:P	%\011MonthlyCostComparator.java	1574449730207:P	%\011CellularTest.java	1574449730207:P	%\011WirelessNetwork.java	1574449730207:P	%\011WirelessNetworkListTest.java	1574449730207:P	%\011WirelessNetworkList.java	1574449730207:P	%\011FiveGTest.java	1574449730207:P	%\011LTETest.java	1574449730207:P	%\011Cellular.java	1574449730207:P	%\011WirelessNetworksPart2Test.java	1574449730207:P	%\011WiFi.java	1574449730207:P	%\011WiFiTest.java	1574449730207:P	%\011WirelessNetworksPart2.java	1574452123147:P	%\011MonthlyCostComparatorTest.java	1574449730207:P	%\011BandwidthComparator.java	1574449730207:P	%\011LTE.java	1574449730207:P	%\011BandwidthComparatorTest.java	1574449730207:P	
